@@ -14,9 +14,9 @@ Web Development: ReactJS, HTML, CSS, Tailwind, Boostrap
 
 Databases: MySQL, Firebase
 
-Tools & Platforms: Git, Docker, Jupyter Notebook, Tableau, Power BI
+Tools & Platforms: Jupyter Notebook, Google Colab, Tableau, Power BI
 
-🚀 Projects
+🚀 Latest Projects
 
 1. Lung Disease Image Analysis with VAE
 
@@ -35,4 +35,4 @@ Designed a ReactJS dashboard to display real-time data
 Developed a database system for analysis and reporting
 
 
-I’m always open to collaboration on exciting projects related to data analysis, web development, and machine learning! Let’s innovate together
+I’m always open to collaboration on exciting projects related to data analysis, web development, and machine learning.
